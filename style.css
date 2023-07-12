@@ -1,0 +1,74 @@
+body{
+    background: url("./glass-sun-warm-colors-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#face{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin:auto;
+    margin-top:15%;
+    box-shadow:  5px 5px 5px plum;
+}
+#eyes{
+    display:flex;
+    width: 300px;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+#leye{
+    height: 50px;
+    width: 45px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
+#leb{
+    height:25px;
+    width:20px;
+    background-color: black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px 5px white;
+}
+#reye{
+    height: 50px;
+    width: 45px;
+    background-color: white;
+    border-radius: 50%;
+    
+}
+#reb{
+    height:25px;
+    width:20px;
+    background-color: black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 15px;
+}
+#mouth{
+    height: 25px;
+    width: 75px;
+    background: white;
+    margin: auto;
+    margin-top: 70px;
+    border:  5px solid black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+
+}
+#tongue{
+    height: 50px;
+    width: 25px;
+    background-color: hotpink;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius:50% ;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
